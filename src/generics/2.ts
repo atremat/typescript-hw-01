@@ -16,3 +16,5 @@ function compare<T extends AllType, U extends AllType>(
     weight: bottom.weight,
   };
 }
+
+export {};

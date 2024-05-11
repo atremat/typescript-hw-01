@@ -14,3 +14,5 @@ const isWeekend = (day: DayOfWeek): boolean => {
   }
   return false;
 };
+
+export {};
